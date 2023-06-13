@@ -16,13 +16,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusupovbg&theme=transparent" />
   </a>
 </p>
-
-<--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yusupovbg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yusupovbg&limit=5&theme=radical&combine_all_yearly_contributions=true)-->
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yusupovbg&icon=0&color=11)](https://visitcount.itsvg.in)
 
