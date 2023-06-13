@@ -15,16 +15,13 @@
   <a href="https://github.com/yusupovbg">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusupovbg&theme=transparent" />
   </a>
-  <a href="https://github.com/yusupovbg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovbg&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
 </p>
 
-## 🏆 GitHub Trophies
+<--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yusupovbg&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yusupovbg&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yusupovbg&limit=5&theme=radical&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yusupovbg&icon=0&color=11)](https://visitcount.itsvg.in)
