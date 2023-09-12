@@ -1,12 +1,52 @@
 ![Twitter](https://pbs.twimg.com/profile_banners/1195629350391074816/1689280946/1500x500)
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+## 🙋‍♂️ Connect with me
+
+<p align="center">
+    <a href="https://github.com/yusupovbg">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://x.com/yusupovbg">
+        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
+</a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yusupovbg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yusupovbg&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovbg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🛠️ My favorite tools
+
+
+### 👨‍💻 Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,ts)](https://skillicons.dev)
+
+### 🧰 Frameworks and libraries
+
+[![Frameworks and libraries](https://skillicons.dev/icons?i=dotnet,react,nodejs,vite,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+
+### 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### ☁ Cloud hosting
+[![Cloud hosting](https://skillicons.dev/icons?i=heroku,vercel)](https://skillicons.dev)
+
+### 💻 Software and tools
+[![Software and tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,idea)](https://skillicons.dev)
+
+### 💻 My favorite operating systems
+<p>
+    <a href="#"><img alt="Windows"
+                     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Linux"
+                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Mac OS"
+                     src="https://img.shields.io/badge/Mac%20OS-5BAFF2?style=for-the-badge&logo=kali&logoColor=white"></a>
+    
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=yusupovbg&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
