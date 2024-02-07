@@ -29,10 +29,10 @@
 
 ### 🗄️ Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### ☁ Cloud hosting
-[![Cloud hosting](https://skillicons.dev/icons?i=heroku,vercel)](https://skillicons.dev)
+[![Cloud hosting](https://skillicons.dev/icons?i=heroku,vercel,netlify)](https://skillicons.dev)
 
 ### 💻 Software and tools
 [![Software and tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,idea)](https://skillicons.dev)
