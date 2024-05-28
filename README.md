@@ -3,18 +3,18 @@
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
-    <a href="https://github.com/yusupovbg">
+    <a href="https://github.com/thebkht">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://x.com/yusupovbg">
+    <a href="https://x.com/thebkht">
         <img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yusupovbg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yusupovbg&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusupovbg&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thebkht&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ My favorite tools
 
@@ -49,4 +49,4 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yusupovbg&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thebkht&icon=0&color=12)](https://visitcount.itsvg.in)
