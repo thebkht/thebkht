@@ -1,5 +1,4 @@
-![Twitter](https://pbs.twimg.com/profile_banners/1195629350391074816/1727037275/1500x500)
-
+![Twitter](https://pbs.twimg.com/profile_banners/1195629350391074816/1737495082/1500x500)
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
