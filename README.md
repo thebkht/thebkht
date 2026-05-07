@@ -40,7 +40,7 @@ Co-founder @ TheFalse
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thebkht&theme=algolia&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thebkht&theme=github-dark-blue&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
