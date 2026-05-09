@@ -42,7 +42,7 @@ Co-founder @ TheFalse
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thebkht&theme=github-dark-blue&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
-![Top Languages](https://githubcard.com/thebkht.svg?d=o334wrnR)
+![Top Languages](https://githubcard.com/thebkht.svg?d=CS7GAV_R)
 
 </div>
 
